@@ -1,0 +1,33 @@
+/* nav a.active {
+  font-weight: bold;
+  color: blue;
+}*/
+
+.primary-nav a {
+  padding: 16px;
+} 
+
+.primary-nav {
+  background: #CCC;
+  padding: 20px;
+}
+
+.secondary-nav a {
+  padding: 16px;
+} 
+
+.secondary-nav {
+  padding: 20px;
+}
+
+.subproducts-container {
+  border: 1px solid #CCC;
+  padding: 20px;
+  margin: 20px;
+}
+
+.searchfilterContainer {
+  border: 1px solid #CCC;
+  padding: 20px;
+  margin: 20px;
+}
